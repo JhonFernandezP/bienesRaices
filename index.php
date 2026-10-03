@@ -200,4 +200,6 @@ incluiirTemplate('header', $inicio = true);
         </section>
     </div>
 
-   <?php include'includes/templates/footer.php' ?>
+   <?php 
+   incluiirTemplate('footer',);
+   ?>
