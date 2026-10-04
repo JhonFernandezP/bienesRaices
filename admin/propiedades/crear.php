@@ -1,5 +1,5 @@
 <?php 
-require 'includes/funciones.php';
+require '../../includes/funciones.php';
 incluirTemplate('header');
 ?>
 
@@ -8,5 +8,5 @@ incluirTemplate('header');
 </main>
 
   <?php 
-   incluirTemplate('footer',);
+   incluirTemplate('footer');
    ?>
